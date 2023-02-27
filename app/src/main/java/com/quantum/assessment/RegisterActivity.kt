@@ -8,8 +8,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions
 import com.google.android.gms.common.api.ApiException
 import com.google.firebase.auth.GoogleAuthProvider
-import com.quantum.Assessment.R
-import com.quantum.Assessment.databinding.ActivityRegisterBinding
+import com.quantum.assessment.databinding.ActivityRegisterBinding
 
 class RegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

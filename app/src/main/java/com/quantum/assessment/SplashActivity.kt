@@ -5,8 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.constraintlayout.motion.widget.MotionLayout
-import com.quantum.Assessment.R
-import com.quantum.Assessment.databinding.ActivitySplashBinding
+import com.quantum.assessment.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {
     private lateinit var motionLayout: MotionLayout

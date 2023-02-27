@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "251874527083",
-    "project_id": "quantum-it-30a41",
-    "storage_bucket": "quantum-it-30a41.appspot.com"
+    "project_number": "329013926926",
+    "project_id": "quantum-it-ea3d3",
+    "storage_bucket": "quantum-it-ea3d3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:251874527083:android:16a1d85762cc45c141ae2e",
+        "mobilesdk_app_id": "1:329013926926:android:82c102ee8cccb85ef1705f",
         "android_client_info": {
-          "package_name": "com.quantum.Assessment"
+          "package_name": "com.quantum.assessment"
         }
       },
       "oauth_client": [
         {
-          "client_id": "251874527083-dkq1gonndtho93cdm66ojer38ttn16lh.apps.googleusercontent.com",
+          "client_id": "329013926926-m9hpf9bo1l4t956mq2lpsvkij8oe86b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quantum.assessment",
+            "certificate_hash": "c14b47a363af23481727c1fb60a21f5cde16a635"
+          }
+        },
+        {
+          "client_id": "329013926926-pr1g41avfkal2nna456a9bnjdddpbqf9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAZvNQB75X2niW5SF6180G4iGV7p_NzVKU"
+          "current_key": "AIzaSyAcIuUYUpKihqFcgTeKJ5ep2Vx_k-989OI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "251874527083-dkq1gonndtho93cdm66ojer38ttn16lh.apps.googleusercontent.com",
+              "client_id": "329013926926-pr1g41avfkal2nna456a9bnjdddpbqf9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

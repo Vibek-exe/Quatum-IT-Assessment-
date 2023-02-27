@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
-import com.quantum.Assessment.databinding.ActivityMainBinding
+import com.quantum.assessment.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
