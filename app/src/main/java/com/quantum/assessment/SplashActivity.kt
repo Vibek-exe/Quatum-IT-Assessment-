@@ -1,10 +1,11 @@
-package com.quantum.Assessment
+package com.quantum.assessment
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.constraintlayout.motion.widget.MotionLayout
+import com.quantum.Assessment.R
 import com.quantum.Assessment.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {

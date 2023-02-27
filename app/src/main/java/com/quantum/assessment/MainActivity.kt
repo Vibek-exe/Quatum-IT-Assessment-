@@ -1,4 +1,4 @@
-package com.quantum.Assessment
+package com.quantum.assessment
 
 import android.content.Intent
 import android.os.Bundle

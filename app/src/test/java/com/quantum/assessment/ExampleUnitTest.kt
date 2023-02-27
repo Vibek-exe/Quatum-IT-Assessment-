@@ -1,4 +1,4 @@
-package com.quantum.Assessment
+package com.quantum.assessment
 
 import org.junit.Test
 
